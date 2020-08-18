@@ -15,3 +15,7 @@ Repository to store all the files and work related to Pre-Joining-Program 2.0 of
 * https://www.codewars.com/kata/59ccf051dcc4050f7800008f :white_check_mark:
 * https://www.codewars.com/kata/587136ba2eefcb92a9000027/train/java :white_check_mark:
 * https://www.codewars.com/kata/59ccf051dcc4050f7800008f/train/javascript :white_check_mark:
+
+### Assignment
+
+- You can find the assignment repository [here](https://github.com/ashu10832/GitDemo) :white_check_mark:
