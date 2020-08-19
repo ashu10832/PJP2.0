@@ -15,9 +15,9 @@ Repository to store all the files and work related to Pre-Joining-Program 2.0 of
 * [Selenium WebDriver with Java & Cucumber BDD](https://sapient.udemy.com/course/automate-tests-using-selenium-webdriver-with-java-cucumber) :white_check_mark:
 
 ### CodeWars
-* https://www.codewars.com/kata/59ccf051dcc4050f7800008f :white_check_mark:
-* https://www.codewars.com/kata/587136ba2eefcb92a9000027/train/java :white_check_mark:
-* https://www.codewars.com/kata/59ccf051dcc4050f7800008f/train/javascript :white_check_mark:
+* [https://www.codewars.com/kata/59ccf051dcc4050f7800008f](https://www.codewars.com/kata/59ccf051dcc4050f7800008f):white_check_mark:
+* [https://www.codewars.com/kata/587136ba2eefcb92a9000027/train/java](https://www.codewars.com/kata/587136ba2eefcb92a9000027/train/java):white_check_mark:
+* [https://www.codewars.com/kata/59ccf051dcc4050f7800008f/train/javascript](https://www.codewars.com/kata/59ccf051dcc4050f7800008f/train/javascript) :white_check_mark:
 
 ### My Assignment
 
