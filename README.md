@@ -9,7 +9,7 @@ Repository to store all the files and work related to Pre-Joining-Program 2.0 of
 * Learn DevOps: CI/CD with Jenkins using Pipelines and Docker :white_check_mark:
 * Object Oriented Analysis, Design & Programming with UML :white_check_mark:
 * Instant Test Driven Development with Java, JUnit and Mockito
-* Selenium WebDriver with Java & Cucumber BDD
+* Selenium WebDriver with Java & Cucumber BDD :white_check_mark:
 
 ### CodeWars
 * https://www.codewars.com/kata/59ccf051dcc4050f7800008f :white_check_mark:
