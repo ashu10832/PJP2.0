@@ -2,6 +2,8 @@
 
 Repository to store all the files and work related to Pre-Joining-Program 2.0 of Publicis Sapient
 
+![Progress](https://progress-bar.dev/1/?scale=9&title=Week&color=babaca&suffix=)
+
 ## Week-1
 ### Udemy Courses
 * Git Going Fast: One Hour Git Crash Course :white_check_mark:
