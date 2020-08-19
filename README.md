@@ -10,7 +10,7 @@ Repository to store all the files and work related to Pre-Joining-Program 2.0 of
 * Maven Tutorial - Manage Java Dependencies in 20 Steps :white_check_mark:
 * Learn DevOps: CI/CD with Jenkins using Pipelines and Docker :white_check_mark:
 * Object Oriented Analysis, Design & Programming with UML :white_check_mark:
-* Instant Test Driven Development with Java, JUnit and Mockito
+* Instant Test Driven Development with Java, JUnit and Mockito :white_check_mark:
 * Selenium WebDriver with Java & Cucumber BDD :white_check_mark:
 
 ### CodeWars
