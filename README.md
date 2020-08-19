@@ -34,4 +34,31 @@ Repository to store all the files and work related to Pre-Joining-Program 2.0 of
 
 
 ### My Assignment
+---
+
+## Week-3
+### Udemy Courses
+
+- [Postgresql](https://sapient.udemy.com/course/sql-and-postgresql-for-beginners/)
+- [Hibernate basics, ORM framework, CRUD examples](https://sapient.udemy.com/course/spring-tutorial-for-beginners/)
+
+### CodeWars
+
+
+### My Assignment
+---
+
+## Week-4
+### Udemy Courses
+
+- [JSP, Servlet, JSLT + Hibernate](https://sapient.udemy.com/course/jsp-tutorial/learn/lecture/4056816#overview)
+- [Rest & Swagger ](https://sapient.udemy.com/course/rest-api/)
+- [Spring MVC](https://sapient.udemy.com/course/spring-mvc-tutorial-for-beginners-step-by-step/)
+- [Microservices with Spring Boot](https://sapient.udemy.com/course/spring-web-services-tutorial/)
+
+
+### CodeWars
+
+
+### My Assignment
 
