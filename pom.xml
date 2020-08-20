@@ -18,6 +18,5 @@
             <artifactId>dotty-interfaces</artifactId>
             <version>0.27.0-bin-20200818-64a239f-NIGHTLY</version>
         </dependency>
-
     </dependencies>
 </project>

@@ -20,3 +20,11 @@ Outputs the log to log.txt
 `bash offline.sh`
 
 Runs maven in offline mode. Uses the -o parameter
+
+---
+
+### local.sh
+
+`bash local.sh`
+
+Installs a local jar file to maven repository. Useful when we have to use a in house jar file in multiple projects.
