@@ -12,3 +12,11 @@ default plugin is maven-war-plugin
 `bash log.sh`
 
 Outputs the log to log.txt
+
+---
+
+### offline.sh
+
+`bash offline.sh`
+
+Runs maven in offline mode. Uses the -o parameter
