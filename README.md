@@ -1,4 +1,8 @@
-# Maven Assignment | Week-2
+# Week-2
+
+---
+
+## Maven Assignment
 
 ### goals.sh
 `bash goals.sh <plugin-name>`
