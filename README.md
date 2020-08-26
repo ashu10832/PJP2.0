@@ -1,3 +1,5 @@
+# NOTE : Please find the assignment links below week-wise
+
 # PJP2.0
 
 Repository to store all the files and work related to Pre-Joining-Program 2.0 of Publicis Sapient
