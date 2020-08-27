@@ -37,8 +37,9 @@ Repository to store all the files and work related to Pre-Joining-Program 2.0 of
 
 ### My Assignment
 - [Maven](https://github.com/ashu10832/PJP2.0/tree/week-2/maven) :white_check_mark:
-- [Date Calculator - Hibernate](https://github.com/ashu10832/DateTimeCalculator) 
-- [Processing Fee Calculatr](https://github.com/ashu10832/processingFeeCalculator) :white_check_mark:
+- [Date Calculator - Hibernate](https://github.com/ashu10832/DateTimeCalculator)
+- [Processing Fee Calculator](https://github.com/ashu10832/processingFeeCalculator) :white_check_mark:
+
 ---
 
 ## Week-3
