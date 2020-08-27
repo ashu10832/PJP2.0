@@ -4,7 +4,7 @@
 
 Repository to store all the files and work related to Pre-Joining-Program 2.0 of Publicis Sapient
 
-![Progress](https://progress-bar.dev/2/?scale=9&title=Week&color=babaca&suffix=)
+![Progress](https://progress-bar.dev/3/?scale=9&title=Week&color=babaca&suffix=)
 
 ---
 ## Week-1
