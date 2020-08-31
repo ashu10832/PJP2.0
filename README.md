@@ -4,7 +4,7 @@
 
 Repository to store all the files and work related to Pre-Joining-Program 2.0 of Publicis Sapient
 
-![Progress](https://progress-bar.dev/2/?scale=9&title=Week&color=babaca&suffix=)
+![Progress](https://progress-bar.dev/3/?scale=9&title=Week&color=babaca&suffix=)
 
 ---
 ## Week-1
@@ -34,11 +34,15 @@ Repository to store all the files and work related to Pre-Joining-Program 2.0 of
 
 ### CodeWars
 
+- [https://www.codewars.com/kata/5bdcd20478d24e664d00002c/train/java](https://www.codewars.com/kata/5bdcd20478d24e664d00002c/train/java)
+- [https://www.codewars.com/kata/57591ef494aba64d14000526/train/java ](https://www.codewars.com/kata/57591ef494aba64d14000526/train/java )
+
 
 ### My Assignment
 - [Maven](https://github.com/ashu10832/PJP2.0/tree/week-2/maven) :white_check_mark:
 - [Date Calculator - JSP and Servlets](https://github.com/ashu10832/DateTimeCalculator) 
 - [Processing Fee Calculatr](https://github.com/ashu10832/processingFeeCalculator) :white_check_mark:
+
 ---
 
 ## Week-3
